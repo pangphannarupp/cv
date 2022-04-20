@@ -1,0 +1,88 @@
+{
+  "information": {
+    "name": "PANG PHANNA",
+    "position": "Android Developer",
+    "dateOfBirth": "December 21, 1989",
+    "gender": "Male",
+    "phoneNumber": "(+855) 93 980 226",
+    "email": "phanna.pang@gmail.com",
+    "currentLocation": "Sangkat Choum Chao, Khan Po Senchey, Phnom Penh"
+  },
+  "skillList": [
+    {
+      "title": "MOBILE",
+      "description": "- Android Java, Flutter, Cordova, Ionic and basic of React Native \n- REST API, Gson, Moshi \n- Butterfly, Fresco, Picasso, Glide"
+    },
+    {
+      "title": "WEB",
+      "description": "- HTML, CSS, JavaScript, jQuery, Three.js, Bootstrap, AdminLTE, Bootstrap Studio \n- PHP and mySQL \n- Reactjs, Express, Axios and basic of Node.js \n- Laravel \n- Wordpress"
+    },
+    {
+      "title": "GAME", "description": "- HTML5, CSS3 \n- Cocos Creator"
+    }
+  ],
+  "educationList": [
+    {
+      "school": "ROYAL UNIVERSITY OF PHNOM PENH",
+      "year": "2014 - 2017",
+      "department": "Master of Information Technology and Engineering",
+      "major": "Thesis: Digital Khmer Ornament Generation"
+    },
+    {
+      "school": "ROYAL UNIVERSITY OF PHNOM PENH",
+      "year": "2010 - 2014",
+      "department": "Bachelor of Science",
+      "major": "Mathematics"
+    },
+    {
+      "school": "UNIVERSITY OF PUTHISASTRA",
+      "year": "2010 - 2014",
+      "department": "Information Technology and Communication",
+      "major": "Database and Programming"
+    }
+  ],
+  "workList": [
+    {
+      "company": "K-Digidata Co., Ltd",
+      "year": "8/01/2017 - 12/27/2019",
+      "position": "Senior Developer",
+      "responsibility": "- Preparing the rule of EPUB3 development \n- Leading project EPUB3 to Android app\n- Teaching data algorithm to new developers\n- Developing, maintenance and report document of Tourism Android App\n- Development, maintenance and report document of SOSORO Museum (សារមន្ទីរព្រះស្រីឦសានវរ្ម័ន) for National Bank of Cambodia\n + Creating web service and front-end of SOSORO tree bank\n + Converting EPUB3 Games to SOSORO Games\n + Creating quizzes of Economy, History, Agriculture, etc of National Bank of Cambodia\n + Creating games with new concept of SOSORO\n + Creating Glossary of SOSORO\n + Creating History Documentary Structure of SOSORO\n + Quiz of 3D project of SOSORO\n- Developing Sipar Books as EBooks with animation, audio and interaction for supporting iBook, iOS app and Android app\n- Research new technologies of any requirements\n- Implement React Native Front End of KhmerDev projects"
+    },
+    {
+      "company": "K-Digidata Co., Ltd",
+      "year": "12/01/2014 - 7/31/2017",
+      "position": "EPUB3 Developer",
+      "responsibility": "- Development of new concept to complete Digital Books and Games. \n- Development of graphical interface in iBook and Android. \n- Researching and development of new technology of iOS, Android, Readium, JavaScript library, PHP. \n- Working with Project Manager to establish requirement and determine priorities. \n- Involved in accurately providing estimated development times. \n- Developing new functionalities, both back-end and front-end. \n- Analyzing data and conducting compatibility and quality assurance testing. \n- Designing, developing, testing & configuring for a custom pre-authenticated scenario."
+    }
+  ],
+  "portfolioList": [
+    {
+      "title": "App Store", "url": "https://apple.co/2Wj4ztH"
+    },
+    {
+      "title": "Huawei App Gallery", "url": "https://bit.ly/39I2ptr"
+    },
+    {
+      "title": "Amazon App Store", "url": "https://amzn.to/2ZEh4Ej"
+    },
+    {
+      "title": "Other", "url": "https://bit.ly/2XWcpwr"
+    }
+  ],
+  "referenceList": [
+    {
+      "name": "Mrs. KHOM Sovannary",
+      "position": "Human Resource Manager",
+      "company": "K-DIGIDATA Co., Ltd",
+      "phoneNumber": "(+855) 69 636 001",
+      "email": "hr@k-digidata.com"
+    },
+    {
+      "name": "Mr. CHEA Samnang",
+      "position": "Manager, Mobile App Development",
+      "company": "SATHAPANA",
+      "phoneNumber": "(+855) 10 222 036",
+      "email": "s6mna9@gmail.com"
+    }
+  ]
+}
