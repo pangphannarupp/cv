@@ -6,7 +6,7 @@
     "gender": "Male",
     "phoneNumber": "(+855) 93 980 226",
     "email": "phanna.pang@gmail.com",
-    "currentLocation": "Sangkat Choum Chao Ti 3, Khan Po Senchey, Phnom Penh"
+    "currentLocation": "Sangkat Choum Chao, Khan Po Senchey, Phnom Penh"
   },
   "skillList": [
     {
@@ -46,7 +46,7 @@
       "company": "MOBILE C&C CO., LTD",
       "year": "29/11/2021 - Now",
       "position": "Senior Mobile Developer",
-      "responsibility": "..."
+      "responsibility": "PPCBank Mobile & Smartbiz Application \n - Create and customize plugin. \n  + eKYC for creating online account. \n  + QR Scanner for KHQR payment. \n  + Notification for supporting 5 languages. \n  + FaceId/Fingerprint authentication and payment. \n - Support developer test and fix bug. \n - Publish application to Play Store."
     },
     {
       "company": "K-Digidata Co., Ltd",
