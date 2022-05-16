@@ -18,7 +18,8 @@
       "description": "- HTML, CSS, JavaScript, jQuery, Three.js, Bootstrap, AdminLTE, Bootstrap Studio \n- PHP and mySQL \n- Reactjs, Express, Axios and basic of Node.js \n- Laravel \n- Wordpress"
     },
     {
-      "title": "GAME", "description": "- HTML5, CSS3 \n- Cocos Creator"
+      "title": "GAME",
+      "description": "- HTML5, CSS3 \n- Cocos Creator"
     }
   ],
   "educationList": [
@@ -46,7 +47,7 @@
       "company": "MOBILE C&C CO., LTD",
       "year": "29/11/2021 - Now",
       "position": "Senior Mobile Developer",
-      "responsibility": "PPCBank Mobile & Smartbiz Application \n - Create and customize plugin. \n  + eKYC for creating online account. \n  + QR Scanner for KHQR payment. \n  + Notification for supporting 5 languages. \n  + FaceId/Fingerprint authentication and payment. \n - Support developer test and fix bug. \n - Publish application to Play Store."
+      "responsibility": "PPCBank Mobile & Smartbiz Application \n - Create and customize plugin. \n  + eKYC for creating online account. \n  + QR Scanner for KHQR payment. \n  + Notification for supporting 5 languages. \n  + FaceId/Fingerprint authentication and payment. \n - Support developer test and fix bug. \n - Publish application to Play Store. \nbizMOB Framework \n - Create plugins"
     },
     {
       "company": "K-Digidata Co., Ltd",
@@ -63,16 +64,20 @@
   ],
   "portfolioList": [
     {
-      "title": "App Store", "url": "https://apple.co/2Wj4ztH"
+      "title": "App Store",
+      "url": "https://apple.co/2Wj4ztH"
     },
     {
-      "title": "Huawei App Gallery", "url": "https://bit.ly/39I2ptr"
+      "title": "Huawei App Gallery",
+      "url": "https://bit.ly/39I2ptr"
     },
     {
-      "title": "Amazon App Store", "url": "https://amzn.to/2ZEh4Ej"
+      "title": "Amazon App Store",
+      "url": "https://amzn.to/2ZEh4Ej"
     },
     {
-      "title": "Other", "url": "https://bit.ly/2XWcpwr"
+      "title": "Other",
+      "url": "https://bit.ly/2XWcpwr"
     }
   ],
   "referenceList": [
