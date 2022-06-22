@@ -11,7 +11,7 @@
   "skillList": [
     {
       "title": "MOBILE",
-      "description": "- Android Java, iOS, Flutter, Cordova, Ionic and basic of React Native \n- REST API, Gson, Moshi \n- Butterfly, Fresco, Picasso, Glide"
+      "description": "- Native: Android, iOS, \nHybrid: Flutter, Cordova, Ionic and basic of React Native \n- REST API, Gson, Moshi \n- Butterfly, Fresco, Picasso, Glide"
     },
     {
       "title": "WEB",
