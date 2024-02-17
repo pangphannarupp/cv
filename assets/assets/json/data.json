@@ -45,7 +45,13 @@
   "workList": [
     {
       "company": "MOBILE C&C CO., LTD",
-      "year": "29/11/2021 - Now",
+      "year": "01/01/2024 - Now",
+      "position": "Mobile Native Team Leader",
+      "responsibility": ""
+    },
+    {
+      "company": "MOBILE C&C CO., LTD",
+      "year": "29/11/2021 - 31/12/2023",
       "position": "Senior Mobile Developer",
       "responsibility": "PPCBank Mobile & Smartbiz Application \n - Create and customize plugin. \n  + eKYC for creating online account. \n  + QR Scanner for KHQR payment. \n  + Notification for supporting 5 languages. \n  + FaceId/Fingerprint authentication and payment. \n - Support developer test and fix bug. \n - Publish application to Play Store. \nbizMOB Framework \n - Create and customize plugin."
     },
